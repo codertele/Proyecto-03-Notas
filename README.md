@@ -7,12 +7,12 @@ Este repositorio contiene mis notas personales y resúmenes sobre diversos temas
 
 ### Índice
 
-1. [PyMySQL](#01-pymysql)  
-2. [Docker](#02-docker)  
-3. [Git](#03-git)  
-4. [NumPy](#04-numpy)  
-5. [Pandas](#05-pandas)  
-6. [POO en Python](#06-poo-python)  
-7. [Python](#07-python)  
-8. [Tmux](#08-tmux)  
-9. [VSCode](#09-vscode)
+1. [PyMySQL](01-Pymysql.ipynb) 
+2. [Docker](02-Docker.ipynb) 
+3. [Git](03-Git.ipynb) 
+4. [NumPy](04-Numpy.ipynb) 
+5. [Pandas](05-Pandas.ipynb) 
+6. [POO en Python](06-POO-Python.ipynb) 
+7. [Python](07-Python.ipynb) 
+8. [Tmux](08-Tmux.ipynb) 
+9. [VSCode](09-Vscode.ipynb)
