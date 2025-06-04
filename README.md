@@ -16,3 +16,4 @@ Este repositorio contiene mis notas personales y resúmenes sobre diversos temas
 7. [Python](07-Python.ipynb) 
 8. [Tmux](08-Tmux.ipynb) 
 9. [VSCode](09-Vscode.ipynb)
+10. [Seaborn](10-Seaborn.ipynb)
